@@ -1,0 +1,4 @@
+kramdown:
+  parse_block_html: true
+  template_engine: liquid
+  input: GFM
